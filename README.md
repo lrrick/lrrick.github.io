@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 Note by Lee:
 
-Eventually this site will be one created by me using html, css and javascript
+Eventually this site will be one created by me using html, css and javascript.
