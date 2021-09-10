@@ -12,6 +12,6 @@ Enjoy learning new things and overcoming problems. Enjoy roles that include work
   {% for post in site.posts %}
   <li>
     <a href="{{ post.url }} "> {{ post.title}}</a>
-  <li>
+  </li>
   {% endfor %}
 </ul>
